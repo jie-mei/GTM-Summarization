@@ -1,0 +1,15 @@
+# humanstxt.org/
+
+# TEAM
+
+    Jie Mei -- Programmer -- mei.jie@hotmail.com
+
+# THANKS
+
+    Aminul Islam
+    Abidalrahman Moh'd
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery
